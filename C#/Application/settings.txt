@@ -1,0 +1,10 @@
+C:\Users\DEEL\Downloads\Truck.mdb
+1
+localhost
+cbl_main
+3306
+nexsoft
+nexsoft2015
+http://localhost/cbl/api/http_post/sync_received_goods
+1
+0

@@ -1,0 +1,8 @@
+c:\users\deel\documents\visual studio 2012\Projects\CBL_DB_SYNC\CBL_DB_SYNC\bin\Debug\CBL_DB_SYNC.exe
+c:\users\deel\documents\visual studio 2012\Projects\CBL_DB_SYNC\CBL_DB_SYNC\bin\Debug\CBL_DB_SYNC.pdb
+c:\users\deel\documents\visual studio 2012\Projects\CBL_DB_SYNC\CBL_DB_SYNC\obj\Debug\CBL_DB_SYNC.csprojResolveAssemblyReference.cache
+c:\users\deel\documents\visual studio 2012\Projects\CBL_DB_SYNC\CBL_DB_SYNC\obj\Debug\CBL_DB_SYNC.Form1.resources
+c:\users\deel\documents\visual studio 2012\Projects\CBL_DB_SYNC\CBL_DB_SYNC\obj\Debug\CBL_DB_SYNC.Properties.Resources.resources
+c:\users\deel\documents\visual studio 2012\Projects\CBL_DB_SYNC\CBL_DB_SYNC\obj\Debug\CBL_DB_SYNC.csproj.GenerateResource.Cache
+c:\users\deel\documents\visual studio 2012\Projects\CBL_DB_SYNC\CBL_DB_SYNC\obj\Debug\CBL_DB_SYNC.exe
+c:\users\deel\documents\visual studio 2012\Projects\CBL_DB_SYNC\CBL_DB_SYNC\obj\Debug\CBL_DB_SYNC.pdb
